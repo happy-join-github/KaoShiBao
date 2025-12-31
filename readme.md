@@ -42,7 +42,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/kaoshibao.git
+   git clone https://github.com/happy-join-github/KaoShiBao.git
    cd kaoshibao
    ```
 
