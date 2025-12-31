@@ -92,13 +92,13 @@
 
      - 当控制台输出注入成功，即为成功。如下图所示
 
-     - ![success](.\explain\hook.png)
+     - ![success](https://github.com/happy-join-github/KaoShiBao/blob/main/explain/hook.png)
 
    - 点击顺序/随机练习，每次获取10题目，所以每次点击20，30，40，50……
 
    - 假设我们就要六十个题目
 
-     -![dataImg](.\explain\hookData.png)
+     -![dataImg](https://github.com/happy-join-github/KaoShiBao/blob/main/explain/hookData.png)
 
      - 在控制台(console)输入
 
@@ -106,7 +106,7 @@
        copy(window.DecrypteQuestions)
        ```
 
-       ![copydata](.\explain\copydata.png)
+       ![copydata](https://github.com/happy-join-github/KaoShiBao/blob/main/explain/copydata.png)
    - 打开本文件夹，找到 `title.json` 文件，使用 `ctrl+V` 或者右键粘贴复制的数据
 
 3. **启动主程序**
